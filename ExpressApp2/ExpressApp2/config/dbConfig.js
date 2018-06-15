@@ -8,7 +8,7 @@ var dbConfig = {
     requestTimeout : 30000,
     options: {
         encrypt: true
-    }
+    } 
 };
 
 //var autowayDbConfig = {
@@ -21,8 +21,8 @@ var dbConfig = {
 //    options: {
 //        encrypt: true
 //    }
-}
+//}
 
-module.exports = { dbConfig, autowayDbConfig }
+module.exports = { dbConfig }
 
 

@@ -1,0 +1,2 @@
+C:\Users\user\Source\Repos\chatMng_v3_jedang\ExpressApp2\ExpressApp2\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\chatMng_v3_jedang\ExpressApp2\ExpressApp2\bin\Microsoft.NodejsTools.WebRole.dll
