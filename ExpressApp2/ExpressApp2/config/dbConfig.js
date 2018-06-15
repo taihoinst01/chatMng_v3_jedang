@@ -1,7 +1,7 @@
 
 var dbConfig = {
     user: 'jedangpoc',
-    password: 'qwer@asdF1!',
+    password: 'qwer@asdF1',
     server: 'jedang.database.windows.net',
     database: 'chatMngV3',
     connectionTimeout : 30000,
