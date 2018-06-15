@@ -1,8 +1,8 @@
 
 var dbConfig = {
-    user: 'taihoinst',
-    password: 'taiho9788!',
-    server: 'taiholab.database.windows.net',
+    user: 'jedangpoc',
+    password: 'qwer@asdF1!',
+    server: 'jedang.database.windows.net',
     database: 'chatMngV3',
     connectionTimeout : 30000,
     requestTimeout : 30000,

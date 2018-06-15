@@ -1,5 +1,5 @@
 var luisConfig = {
-    subKey: 'db5c8e83e84f4c9e9c21f5da0b5a48fd'
+    subKey: '9238d85d207d4af69fdfd635163c103c'
 };
 
 module.exports = luisConfig;
